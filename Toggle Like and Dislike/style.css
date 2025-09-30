@@ -1,0 +1,9 @@
+.fa {
+  font-size: 5000px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.fa:hover {
+  color: rgb(41, 41, 221);
+}

@@ -1,0 +1,53 @@
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.success {
+    background-color: #04AA6D;
+}
+
+/* Green */
+.success:hover {
+    background-color: white;
+}
+
+.info {
+    background-color: #2196F3;
+}
+
+/* Blue */
+.info:hover {
+    background: white;
+}
+
+.warning {
+    background-color: #d7922c;
+}
+
+/* Orange */
+.warning:hover {
+    background: white;
+}
+
+.danger {
+    background-color: #f44336;
+}
+
+/* Red */
+.danger:hover {
+    background: white;
+}
+
+.default {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+/* Gray */
+.default:hover {
+    background: white;
+}

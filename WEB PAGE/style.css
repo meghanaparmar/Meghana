@@ -1,0 +1,58 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 5px;
+}
+.header{
+    background-color: deeppink;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    
+    
+}
+.logo a{
+    color: black;
+    margin: 0;
+    padding: 30px;
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    
+    
+}
+.menu{
+    float: right;
+    
+}
+.menu a{
+    color: rgb(236, 241, 241);
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 10px;
+    margin: 0;
+    text-decoration: none;
+}
+.content{
+    margin: 150px;
+    text-align: center;
+    
+}
+.content a{
+    color: rgb(214, 216, 219);
+    background-color: deeppink;
+    border: none;
+    text-decoration: none;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    
+
+}
